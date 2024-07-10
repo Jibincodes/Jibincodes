@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jibin</h1>
-<h3 align="center">Currently working as a programmer for Vontobel Asset Management, Zurich</h3>
+<h3 align="center">Currently working as a programmer at Vontobel Asset Management, Zurich</h3>
 
-- 🔭 I'm currently doing my bachelor's degree in **Business Information Technology with a specialisation on Data Science**
+- 🔭 I'm currently doing my Bachelor in **Business Information Technology with a specialization in Data Science**
 
-- 🌱 I’m currently studying **Machine Learning Frameworks and Exploring LLMs using the Hugging Face Platform**
+- 🌱 I’m currently studying **Machine learning frameworks and exploring LLMs using the Hugging Face platform**
 
 - 📫 How to reach me: **jibinpeechatt@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/jibin-peechatt/](https://www.linkedin.com/in/jibin-peechatt/)
+- 📄 Learn more about my experience: [https://www.linkedin.com/in/jibin-peechatt/](https://www.linkedin.com/in/jibin-peechatt/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

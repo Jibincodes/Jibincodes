@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jibin</h1>
 <h3 align="center">Currently working in Data & AI Solutions Hub at Bank Vontobel, Zurich</h3>
 
-- 🔭 I am currently studying for a Master's degree in **Data Science**
+- 🔭 I am currently studying for a Master's degree in **Data Science/Computer Science**
 
 - 🌱 I’m currently studying **Machine learning frameworks and exploring LLMs using the Hugging Face platform**
 

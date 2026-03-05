@@ -3,7 +3,7 @@
 
 -  I am currently studying for a Master's degree in **Data Science/Computer Science**
 
--  I’m currently studying **Machine learning frameworks and exploring LLMs using the Hugging Face platform**
+-  Current Focus: **Cloud Computing, Data Mangement, Deep Learning and MLOps**
 
 -  How to reach me: **jibinpeechatt@gmail.com**
 
